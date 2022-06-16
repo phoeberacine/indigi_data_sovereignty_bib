@@ -1,12 +1,6 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
-
-This template provides a skeleton file structure that you can edit to create your book. 
-
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
+This bookdown project is focused on Indigenous data sovereigenty and it's intersection with environemntal science and the open data movement.
 
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
