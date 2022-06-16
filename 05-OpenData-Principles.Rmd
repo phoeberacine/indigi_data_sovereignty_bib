@@ -1,0 +1,31 @@
+---
+output: html_document
+---
+
+# Open Data Principals
+The Open Data movement has had significant success. Data is more accessible than ever before. The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. However, data collection, analysis and sharing is couched in historic inequities. The FAIR  principles, now paired with CARE, can work together to ensure data is ethically sourced and shared.
+
+### FAIR Principals
+#### "[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)" {-}
+Mark D. Wilkinson, et al. *Scientific Data* 3.1: 1-9. 2016. 
+
+The Findable, Accessible, Interoperable and Reusable (FAIR) Data principles were developed in reaction to the wide reuse of scholarly data. They have become increasingly important, acting as guidelines to improve the entire lifecycle of research data management (D7.4 2021). The term “FAIR” was first developed at a Lorentz workshop in the Netherlands in 2014 (D7.4 2021).
+
+#### "[The FAIR guiding principles for data stewardship: fair enough?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6018669/)" {-}  
+Martin Boeckhout, Gerhard A. Zielhuis, and Annelien L. Bredenoord. *European Journal of Human Genetics* 26.7: 931-936. 2018. 
+
+Abstract: "The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order. The FAIR principles point the way forward for facilitating data sharing more systematically—provided that a number of ethical, methodological, and organisational challenges are addressed as well."
+
+#### D7.4 [How to be FAIR with your data](https://zenodo.org/record/5837500#.Yhk8L5PMJ6e ) {-} 
+*A teaching and training handbook for higher education institutions*. November 2021. 
+
+The handbook was written and edited by a group of about 40 collaborators as part of a working group and was subject to community review. The 179 page book is a wealth of information and practical materials relating to the FAIR principals. Practical materials include competence profiles, learning outcomes and lesson plans, and supporting information.
+
+
+### FAIR and Beyond
+For CARE Principals, see Section 3.3: Guidelines for and for Working With Indigenous Nations
+
+#### "[Fostering global data sharing: highlighting the recommendations of the Research Data Alliance COVID-19 working group.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7808050/)"{-} 
+Claire C. Austin, et al. *Wellcome Open Research* 5. 2020.
+
+This letter, developed by a 160 person international working group, shares a set of recommendations and guidelines on data sharing and best practices for COVID-19 research. Here, the authors create recommendations that balance adherence to FAIR Principles but given the nature of COVID-19, also need quick data release.

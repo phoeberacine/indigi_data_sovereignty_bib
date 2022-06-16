@@ -1,0 +1,6 @@
+`r if (knitr::is_html_output()) '
+# Additional References {-}
+'`
+Bryan, J. Walking the line: participatory mapping, Indigenous rights, and neoliberalism. Geoforum 42, 40–50 (2011). https://www.sciencedirect.com/science/article/pii/S0016718510001090?via%3Dihub
+
+Walter, M, Lovett, R, Bodkin Andrews, G and Lee, V. 2018. Indigenous Data Sovereignty Briefing Paper 1. Miaim nayri Wingara Data Sovereignty Group and the Australian Indigenous Governance Institute. 

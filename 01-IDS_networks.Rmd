@@ -1,0 +1,36 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# IDS (Indigenous Data Sovereignty) Frameworks & Networks
+International and nation-state networks of practitioners and researchers have formed to share and develop resources and training on data management. These networks are critical for furthering Indigenous data, data sovereignty, and creating a community of Indigenous scholars and stewards.
+
+## Overview of Indigenous data sovereignty networks {-}
+- International Groups
+  - The Global Indigenous Data Alliance [GIDA](https://www.gida-global.org/)
+  - International Indigenous Data Sovereignty Interest Group: Research Data Alliance ([RDA](https://www.rd-alliance.org/groups/international-indigenous-data-sovereignty-ig))
+- Anglo-settler state data sovereignty networks
+  - [U.S. Indigenous Data Sovereignty Network](https://usindigenousdata.org/)
+  - [Te Mana Raraunga](https://www.temanararaunga.maori.nz/) – Māori Data Sovereignty Network
+  - [The Maiam nayri Wingara Indigneous Data Sovereignty Collective](https://www.maiamnayriwingara.org/)
+
+#### The Global Indigenous Data Alliance ([GIDA](https://www.gida-global.org/)) {-}
+Shares frameworks, tools, and processes to help guide the practice of Indigenous Data Sovereignty around the globe.
+Notably, GIDA created the [CARE principles](https://www.gida-global.org/care) for Indigenous Data Governance (see section 3.3). 
+
+```{r echo=FALSE, fig.cap = "The CARE and FAIR Principals (GIDA 2019)."}
+
+knitr::include_graphics("images/care_fair.png")
+
+
+```
+
+
+#### Research Data Alliance  ([RDA](https://www.rd-alliance.org/groups/international-indigenous-data-sovereignty-ig)) {-} 
+Builds the social and technical bridges to enable open sharing and re-use of data
+
+
