@@ -22,7 +22,7 @@ knitr::include_graphics("images/Garnett_2018.png")
 
 ## Indigenous Environmental Data
 #### "[Indigenous Climate Knowledge and Data Sovereignty](https://open.spotify.com/episode/4Gdp1RSChCPM0qftRun3DD?si=pcVeYiwwQIWnlKynt4-ADQ)" {-}
-*Warm Regards*. February 2021.
+*Warm Regards*.  February 2021.
 
 Warm Regards is a podcast about life on a warming planet. In this episode, the hosts interview two Indigenous scientists, James Rattling Leaf, Sr. and Krystal Tsosie, about traditional ecological knowledges and data sovereignty.
  

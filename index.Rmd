@@ -30,6 +30,7 @@ This reading list reflects the continuous development of learning materials at t
 knitr::include_graphics("images/adc_logo.png")
 
 ```
+
 ```{r echo=FALSE}
 knitr::include_graphics("images/nceas.png")
 

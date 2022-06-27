@@ -30,7 +30,7 @@ knitr::include_graphics("images/care_fair.png")
 ```
 
 
-#### Research Data Alliance  ([RDA](https://www.rd-alliance.org/groups/international-indigenous-data-sovereignty-ig)) {-} 
+#### Research Data Alliance ([RDA](https://www.rd-alliance.org/groups/international-indigenous-data-sovereignty-ig)): International Indigenous Data Sovereignty Interest Group  {-} 
 Builds the social and technical bridges to enable open sharing and re-use of data
 
 
