@@ -26,15 +26,14 @@ This reading list reflects the continuous development of learning materials at t
 **Additional contributors**: Nākoa Farrant, Ben Halpern, Matt Jones
 
 
-```{r echo=FALSE}
+```{r echo=FALSE, out.width="49%"}
 knitr::include_graphics("images/adc_logo.png")
-
 ```
 
-```{r echo=FALSE}
+```{r, echo=FALSE, out.width="49%"}
 knitr::include_graphics("images/nceas.png")
-
 ```
+
 
 ## Land Acknowledgement {-}
 

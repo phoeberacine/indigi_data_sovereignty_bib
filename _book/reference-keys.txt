@@ -6,6 +6,7 @@ fig:unnamed-chunk-9
 fig:unnamed-chunk-10
 ids-indigenous-data-sovereignty-frameworks-networks
 indigenous-statistics-the-importance-of-data-to-indigenous-communities
+indigenous-statistics-a-quantitative-research-methodology
 data-sovereignty-and-governance
 data-sovereignty
 data-governance

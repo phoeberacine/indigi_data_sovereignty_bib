@@ -6,7 +6,6 @@ output: html_document
 
 Indigenous peoples continue to suffer data inequities and data exploitation. Big data and secondary data are important tools for Indigenous peoples to make decisions, spur innovation and discovery, and to commercialize ([Carroll et al. 2020](https://repository.oceanbestpractices.org/bitstream/handle/11329/1507/1158-8528-2-PB.pdf?sequence=1&isAllowed=y)). While quantitative methods have long been tools of colonization, they are being rethought through an Indigenous lens. Below is a small collection of resources that discuss or present the importance of Indigenous statistics, Indigenous data and Indigenous quantitative methods.
 
-
 #### [Indigenous statistics: A quantitative research methodology](https://www.taylorfrancis.com/books/mono/10.4324/9781315426570/indigenous-statistics-maggie-walter-chris-andersen){-} 
 Maggie Walter and Chris Andersen. *Routledge*, 2016. 
 
