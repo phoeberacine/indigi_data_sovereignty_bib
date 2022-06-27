@@ -21,7 +21,7 @@ This is an evolving reading list geared towards understanding the ethical concer
 
 This reading list reflects the continuous development of learning materials at the Arctic Data Center and National Center for Ecological Analysis and Synthesis (NCEAS) to support researchers and practitioners to understand, adopt, and apply ethical open science practices. In bringing these materials together we recognize that many individuals have contributed to their development. The primary authors are listed in the citation below, with additional contributors recognized for their role in guiding the development of the document or by developing previous iterations.
 
-**Citation**: Phoebe Racine & Natasha Haycock-Chavez. 2022. Data Sovereignty and Open Data in Environmental Sciences
+**Citation**: Phoebe Racine & Natasha Haycock-Chavez. 2022. Indigenous Data Sovereignty and Open Data in Environmental Sciences.
 
 **Additional contributors**: Nākoa Farrant, Ben Halpern, Matt Jones
 
