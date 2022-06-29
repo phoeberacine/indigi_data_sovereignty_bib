@@ -17,7 +17,7 @@ link-citations: yes
 
 # About this book {-}
 
-This is an evolving reading list geared towards understanding the ethical concerns and best practices of data collection, management, and analysis especially as it pertains to working with Indigenous peoples and environmental science and management. Here, you’ll find an overview of data sovereignty networks, and a collection of podcasts, seminars, books and peer-reviewed papers. If you’re aware of a resource that would fit in well, please share!
+This is an evolving reading list geared towards understanding the ethical concerns and best practices of data collection, management, and analysis especially as it pertains to working with Indigenous peoples and environmental science and management. Here, you’ll find an overview of data sovereignty networks, and a collection of podcasts, seminars, books and peer-reviewed papers. If you’re aware of a resource that would fit in well or have other feedback, please share!
 
 This reading list reflects the continuous development of learning materials at the Arctic Data Center and National Center for Ecological Analysis and Synthesis (NCEAS) to support researchers and practitioners to understand, adopt, and apply ethical open science practices. In bringing these materials together we recognize that many individuals have contributed to their development. The primary authors are listed in the citation below, with additional contributors recognized for their role in guiding the development of the document or by developing previous iterations.
 
