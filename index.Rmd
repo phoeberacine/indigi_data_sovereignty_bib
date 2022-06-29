@@ -30,7 +30,7 @@ This reading list reflects the continuous development of learning materials at t
 knitr::include_graphics("images/adc_logo.png")
 ```
 
-```{r, echo=FALSE, out.width="49%"}
+```{r echo=FALSE, out.width="49%"}
 knitr::include_graphics("images/nceas.png")
 ```
 
@@ -41,7 +41,8 @@ This book was created on unceded Chumash ancestral lands in gratitude and solida
 
 The Chumash people are comprised of the descendants of Indigenous peoples removed from their Island of origin [Limuw (Santa Cruz), Anyapac (Anacapa), Wima (Santa Rosa) and Tuqan (San Miguel)](https://external.as.ucsb.edu/land-acknowledgment/) subjugated by 5 missions during Spanish colonization of the Central Coast. Chumash Territory stretches from Malibu to Morro Bay and inland to Bakersfield, encompassing [7,000 square miles](https://www.santaynezchumash.org/chumash-history). The Villages, upon which University of California Santa Barbara sits, were a traditional place of knowledge sharing, education, trading and abundance.
 
-```{r echo=FALSE, fig.cap= "Map of Chumash Villages [source: Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Chumash_villages.svg)"}
+```{r echo=FALSE, fig.cap= "Map of Chumash Villages [source: Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Chumash_villages.svg)"} 
+
 knitr::include_graphics("images/chumash_territory.png")
 
 ```

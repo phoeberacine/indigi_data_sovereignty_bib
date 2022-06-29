@@ -10,7 +10,6 @@ indigenous-statistics-a-quantitative-research-methodology
 data-sovereignty-and-governance
 data-sovereignty
 data-governance
-guidelines-for-and-for-working-with-indigenous-nations
 the-care-principles-for-indigenous-data-governance
 ocap-principals
 data-management-tools

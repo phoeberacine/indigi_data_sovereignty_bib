@@ -20,7 +20,7 @@ International and nation-state networks of practitioners and researchers have fo
 
 #### The Global Indigenous Data Alliance ([GIDA](https://www.gida-global.org/)) {-}
 Shares frameworks, tools, and processes to help guide the practice of Indigenous Data Sovereignty around the globe.
-Notably, GIDA created the [CARE principles](https://www.gida-global.org/care) for Indigenous Data Governance (see section 3.3). 
+Notably, GIDA created the [CARE principles](https://www.gida-global.org/care) for Indigenous Data Governance (see section 3.3 & 3.4). 
 
 ```{r echo=FALSE, fig.cap = "The CARE and FAIR Principals (GIDA 2019)."}
 
