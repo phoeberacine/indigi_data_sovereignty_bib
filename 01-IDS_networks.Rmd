@@ -7,9 +7,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # IDS (Indigenous Data Sovereignty) Frameworks & Networks
-International and nation-state networks of practitioners and researchers have formed to share and develop resources and training on data management. These networks are critical for furthering Indigenous data, data sovereignty, and creating a community of Indigenous scholars and stewards.
-
-{*we left this scant since it was so well covered in another Arctic Data Center Bookdown - should we link to it?*}
+International and nation-state networks of practitioners and researchers have formed to share and develop resources and training on data management and governance. These networks are critical for furthering Indigenous data, data sovereignty, and creating a community of Indigenous scholars and stewards.
 
 ## Overview of Indigenous data sovereignty networks {-}
 - International Groups
@@ -21,8 +19,7 @@ International and nation-state networks of practitioners and researchers have fo
   - [The Maiam nayri Wingara Indigneous Data Sovereignty Collective](https://www.maiamnayriwingara.org/)
 
 #### The Global Indigenous Data Alliance ([GIDA](https://www.gida-global.org/)) {-}
-Shares frameworks, tools, and processes to help guide the practice of Indigenous Data Sovereignty around the globe.
-Notably, GIDA created the [CARE principles](https://www.gida-global.org/care) for Indigenous Data Governance (see section 3.3 & 3.4). 
+Shares frameworks, tools, and processes to help guide the practice of Indigenous Data Sovereignty around the globe. Notably, GIDA created the [CARE principles](https://www.gida-global.org/care) for Indigenous Data Governance \@ref(3.3). 
 
 ```{r echo=FALSE, fig.cap = "The CARE and FAIR Principals (GIDA 2019)."}
 
