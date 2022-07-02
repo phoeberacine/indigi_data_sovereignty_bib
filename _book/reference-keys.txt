@@ -1,11 +1,11 @@
 fig:unnamed-chunk-3
-fig:unnamed-chunk-4
+fig:unnamed-chunk-5
 fig:unnamed-chunk-6
 fig:unnamed-chunk-7
 fig:unnamed-chunk-9
 fig:unnamed-chunk-10
-ids-indigenous-data-sovereignty-frameworks-networks
-indigenous-statistics-the-importance-of-data-to-indigenous-communities
+indigenous-statistics-environmental-justice-theory
+the-importance-of-data-to-indigenous-communities
 indigenous-statistics-a-quantitative-research-methodology
 indigenous-environmental-justice-theory
 as-long-as-the-grass-grows-the-indigenous-fight-for-environmental-justice-from-colonization-to-standing-rock
@@ -17,6 +17,7 @@ ocap-principals
 open-data-principals
 fair-principals
 fair-and-beyond
+ids-indigenous-data-sovereignty-frameworks-networks
 data-management-tools
 biocultural-labels
 indigenous-digitial-strategies
