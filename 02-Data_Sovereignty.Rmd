@@ -100,8 +100,8 @@ The OCAP Principals were first developed in 1998 in response to extractive resea
 #### [Fundamentals of OCAP Course](https://fnigc.ca/ocap-training/take-the-course/) {-} 
 An online training course to introduce individuals to the fundamental concepts of OCAP, information governance, and First Nations Data Sovereignty.
 
-# Open Data Principals
-The Open Data movement has had significant success. The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. However, data collection, analysis and sharing is couched in historic inequities. The FAIR  principles, now paired with CARE, can work together to ensure data is ethically sourced and shared.
+## Open Data Principals
+The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. The FAIR  principles, now paired with CARE, can work together to ensure data is ethically sourced and shared.
 
 ### FAIR Principals
 #### "[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)" {-}
