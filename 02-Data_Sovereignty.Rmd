@@ -101,7 +101,7 @@ The OCAP Principals were first developed in 1998 in response to extractive resea
 An online training course to introduce individuals to the fundamental concepts of OCAP, information governance, and First Nations Data Sovereignty.
 
 ## FAIR Principals
-The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. The FAIR  principles, now paired with CARE, can work together to ensure data is ethically sourced and shared.
+The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. The FAIR  principles, paired with CARE prinicapls, can work together to ensure data is ethically sourced and shared.
 
 #### "[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)" {-}
 Mark D. Wilkinson, et al. *Scientific Data* 3.1: 1-9. 2016. 
