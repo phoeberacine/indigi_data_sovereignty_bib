@@ -3,7 +3,7 @@ output: html_document
 ---
 
 # Data Sovereignty and Governance
-Data collection, analysis and sharing is couched in historic inequities, some of which Open Data can exacerbate. Data Sovereignty addresses aspects of data inequality, and may place limits on what data can be shared and by whom.
+Data collection, analysis and sharing is couched in historic inequities, some of which Open Data can exacerbate. Data Sovereignty addresses aspects of data inequality, and may place limits on what data can be shared and by whom. Here, we share background resources and principals on data sovereignty, governance, and open data science.
 
 **Data sovereignty**: The right of a community and/or nation to maintain that data  is managed in a way that is consistent with the laws, practices and customs of that community ([Snipp 2016](https://static1.squarespace.com/static/5d2633cb0ef5e4000134fa02/t/5d7a7610da91c0143184a9d1/1568306712324/Indigenous%2BData%2BSovereignty%2BBook.pdf), pg. 39). 
 
@@ -101,7 +101,7 @@ The OCAP Principals were first developed in 1998 in response to extractive resea
 An online training course to introduce individuals to the fundamental concepts of OCAP, information governance, and First Nations Data Sovereignty.
 
 ## FAIR Principals
-The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. The FAIR  principles, paired with CARE prinicapls, can work together to ensure data is ethically sourced and shared.
+The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. The FAIR  principles, paired with CARE principals, can work together to ensure data is ethically sourced and shared.
 
 #### "[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)" {-}
 Mark D. Wilkinson, et al. *Scientific Data* 3.1: 1-9. 2016. 
