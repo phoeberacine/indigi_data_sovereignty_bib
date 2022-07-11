@@ -3,7 +3,7 @@ output: html_document
 ---
 
 # Data Sovereignty and Governance
-Data collection, analysis and sharing is couched in historic inequities, some of which Open Data can exacerbate. Data Sovereignty addresses aspects of data inequality, and may place limits on what data can be shared and by whom. Here, we share background resources and principals on data sovereignty, governance, and open data science.
+Data collection, analysis and sharing is couched in historic inequities, some of which Open Data can exacerbate. Data Sovereignty empowers Indigenous communities to choose which types of data on their people are shared and with whom, shifting the historical imbalance in who controls data access. Here, we share background resources and principals on data sovereignty, governance, and open data science.
 
 **Data sovereignty**: The right of a community and/or nation to maintain that data  is managed in a way that is consistent with the laws, practices and customs of that community ([Snipp 2016](https://static1.squarespace.com/static/5d2633cb0ef5e4000134fa02/t/5d7a7610da91c0143184a9d1/1568306712324/Indigenous%2BData%2BSovereignty%2BBook.pdf), pg. 39). 
 
@@ -16,7 +16,7 @@ For background on these terms see [Carroll, Rodriguez-Lonebear, and Martinez 201
 #### [Indigenous Data Sovereignty](https://static1.squarespace.com/static/5d2633cb0ef5e4000134fa02/t/5d7a7610da91c0143184a9d1/1568306712324/Indigenous%2BData%2BSovereignty%2BBook.pdf): Toward an Agenda {-}
 Tahu Kukutai and John Taylor. *ANU Press*, 2016. 
 
-*Indigenous Data Sovereignty* is a book published in 2016 and is a collaboration between Indigenous scholars from Anglo-Settler states (CANSUZ), Australia, Aotearoa, the U.S. and Canada. There are 16 chapters, in which each can stand alone.
+*Indigenous Data Sovereignty* is a book published in 2016 and is a collaboration between Indigenous scholars from Anglo-Settler states (CANSUZ), Australia, Aotearoa, the U.S. and Canada. There are 16 chapters, each of which can stand alone.
 
 #### [Indigenous Data Sovereignty](https://www.youtube.com/watch?v=RjolET69Z8c): How Researchers can Empower Data Governance {-}
 Lydia Jennings. *NCEAS Seminar Series*. 2021. 
@@ -44,9 +44,9 @@ Abstract: "Indigenous Data Sovereignty, in its proclamation of the right of Indi
 #### "[Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2019-031/): Strategies from United States Native Nations" {-} 
 Stephanie Russo Carroll, Desi Rodriguez-Lonebear, and Andrew Martinez. *Data Science Journal*, 18(1), p.31. 2019.
 
-This review paper argues for the repositioning of authority over Indigenous data back to Indigenous peoples through context setting and case studies. For those wanting an overview to these concepts, Carroll, Rodriguez-Lonebear and Martinez provide an especially background of key terms related to data sovereignty and data governance.
+This review paper argues for the repositioning of authority over Indigenous data back to Indigenous peoples through context setting and case studies. For those wanting an overview to these concepts, Carroll, Rodriguez-Lonebear and Martinez provide a robust introduction to key terms related to data sovereignty and data governance.
 
-```{r echo = FALSE, , fig.cap = "Building Indigenous data soverigenty through Indigenous data governance"}
+```{r echo = FALSE, , fig.cap = "Building Indigenous data sovereignty through Indigenous data governance"}
 knitr::include_graphics("images/download.png")
 
 
@@ -73,7 +73,7 @@ Raymond Lovett et al. *Good Data*: 26-36. 2019.
 #### "[The CARE Principles for Indigenous Data Governance](http://doi.org/10.5334/dsj-2020-043)" {-} 
 Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons, Kay Raseroka, Desi Rodriguez-Lonebear, Robyn Rowe, Rodrigo Sara, Jennifer D. Walker, Jane Anderson, Maui Hudson. *Data Science Journal*, 19(1), p.43. 2020 
 
-The ‘CARE Principles for Indigenous Data Governance’ (Collective Benefit, Authority to Control, Responsibility, and Ethics) were developed due to concerns about secondary use of data and limited opportunities for benefit-sharing between Indigenous communities and outside researchers. While the FAIR Principles are data-centric, the CARE Principles are people and purpose oriented. The authors write, "the goal is that stewards and other users of Indigenous data will ‘Be FAIR and CARE.’" CARE principles are intended to be used in concert with FAIR Principals. Of particular note, this paper also provides an important background on Indigenous data sovereignty.
+The ‘CARE Principles for Indigenous Data Governance’ (Collective Benefit, Authority to Control, Responsibility, and Ethics) were developed due to concerns about secondary use of data and limited opportunities for benefit-sharing between Indigenous communities and outside researchers. While the FAIR Principles are data-centric, the CARE Principles are people and purpose oriented. The authors write, "the goal is that stewards and other users of Indigenous data will ‘Be FAIR and CARE.’" CARE principles are intended to be used in concert with FAIR Principals. Of note, this paper provides important background on Indigenous data sovereignty.
 
 ```{r echo=FALSE, fig.cap = "Indigenous and mainstream data principles, and the orientation of these principles towards data, people and purpose (Carroll et al. 2020)."}
 
@@ -116,7 +116,7 @@ Abstract: "The FAIR guiding principles for research data stewardship (findabilit
 #### D7.4 [How to be FAIR with your data](https://zenodo.org/record/5837500#.Yhk8L5PMJ6e ) {-} 
 *A teaching and training handbook for higher education institutions*. November 2021. 
 
-The handbook was written and edited by a group of about 40 collaborators as part of a working group and was subject to community review. The 179 page book is a wealth of information and practical materials relating to the FAIR principals. Practical materials include competence profiles, learning outcomes and lesson plans, and supporting information.
+The handbook was written and edited by a group of about 40 collaborators as part of a working group and was subject to community review. The 179-page book is a wealth of information and practical materials relating to the FAIR principals. Practical materials include competence profiles, learning outcomes and lesson plans, and supporting information.
 
 
 ### FAIR and Beyond
