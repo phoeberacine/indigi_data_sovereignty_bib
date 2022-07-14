@@ -4,8 +4,6 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-#url: https://bookdown.org/pracine/bookdown
-# url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
@@ -48,3 +46,6 @@ knitr::include_graphics("images/chumash_territory.png")
 ```
 
 If you are interested in learning more about the Chumash and how to support them, please visit their website [here](https://www.wishtoyo.org/).
+
+## Author Positionality {-}
+Phoebe Racine is a descendant of the Blackfeet and Cree Nations and is also of mixed-European heritage. She lives and studies on Chumash lands.
