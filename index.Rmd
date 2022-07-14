@@ -48,4 +48,4 @@ knitr::include_graphics("images/chumash_territory.png")
 If you are interested in learning more about the Chumash and how to support them, please visit their website [here](https://www.wishtoyo.org/).
 
 ## Author Positionality {-}
-Phoebe Racine is a descendant of the Blackfeet and Cree Nations and is also of mixed-European heritage. She lives and studies on Chumash lands.
+Phoebe Racine is a descendant of the Blackfeet and Cree Nations and mixed-European heritage. She lives and studies on Chumash lands.
