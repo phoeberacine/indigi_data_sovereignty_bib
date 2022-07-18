@@ -57,11 +57,6 @@ Maggie Walter. *Griffith Review* 60: 256-263. 2018.
 
 Maggie Walter outlines the Indigenous Data Paradox: there is both too much data about Aboriginal and Torres Strait Islander people but almost no data for or by Aboriginal and Torres Strait Islander people. Walter then maps these data failures across data categories, ultimately calling for a change in the paradigm of Indigenous data. 
 
-#### “[First Nations data sovereignty](https://open.spotify.com/episode/7lpJvcWPEX0DJcMjQPTdiK?si=r3AfZ-SbQeu3KrMtPbK6cQ)" {-}
-*Info Matters*. August 2021.  
-
-Info Matters is a podcast by the Information and Privacy Commissioner of Ontario, Canada, Patricia Kosseim. In this episode, Kosseim interviews Dr. Jonathan Dewer, Chief Executive Officer of the First Nations Information Governance Center, and Carmen Jones, Director of Research and Data Management for the Chief of Ontario. Dewar and Jones provide unique insight into data sovereignty broadly and specifically the creation and implementation of OCAP Principals (14:15).
-
 #### "[Good data practices for Indigenous data sovereignty and governance](https://books.google.com/books?hl=en&lr=&id=Y0vUDwAAQBAJ&oi=fnd&pg=PA26&dq=Good+data+practices+for+Indigenous+data+sovereignty+and+governance&ots=hr9XhjlbCh&sig=QKNc1PnCBYMO2s1mHYWbRg6g_GU#v=onepage&q=Good%20data%20practices%20for%20Indigenous%20data%20sovereignty%20and%20governance&f=false)" {-}
 Raymond Lovett et al. *Good Data*: 26-36. 2019. 
 
@@ -99,6 +94,11 @@ The OCAP Principals were first developed in 1998 in response to extractive resea
 
 #### [Fundamentals of OCAP Course](https://fnigc.ca/ocap-training/take-the-course/) {-} 
 An online training course to introduce individuals to the fundamental concepts of OCAP, information governance, and First Nations Data Sovereignty.
+
+#### “[First Nations data sovereignty](https://open.spotify.com/episode/7lpJvcWPEX0DJcMjQPTdiK?si=r3AfZ-SbQeu3KrMtPbK6cQ)" {-}
+*Info Matters*. August 2021.  
+
+Info Matters is a podcast by the Information and Privacy Commissioner of Ontario, Canada, Patricia Kosseim. In this episode, Kosseim interviews Dr. Jonathan Dewer, Chief Executive Officer of the First Nations Information Governance Center, and Carmen Jones, Director of Research and Data Management for the Chief of Ontario. Dewar and Jones provide unique insight into data sovereignty broadly and specifically the creation and implementation of OCAP Principals (14:15).
 
 ## FAIR Principals
 The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. The FAIR  principles, paired with CARE principals, can work together to ensure data is ethically sourced and shared.
