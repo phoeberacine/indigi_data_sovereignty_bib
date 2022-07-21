@@ -30,7 +30,7 @@ Julian Noisecat. *Snap Judgment*. June, 2021.
 
 Journalist Julian Noisecat follows Cheyanne Brady, a member of the Mandan Hidatsa Arikara Nation, as she works to count everyone on her reservation for the US 2020 Census. This podcast details the complicated relationship tribal nations have with the US Census. Through storytelling, the listener can get a sense of the important role data has in shaping indigenous outcomes.
 
-```{r echo=FALSE, "Census Powwow, Snap Judgement"}
+```{r echo=FALSE, fig.cap = "Census Powwow, Snap Judgement"}
 knitr::include_graphics("images/CensusPowwow.png")
 
 ```
