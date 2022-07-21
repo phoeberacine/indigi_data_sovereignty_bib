@@ -38,7 +38,7 @@ Andrea Reid, a member of the Nisga'a Nation and Director for the Centre of Indig
 Andrea J. Reid, et al. *Fish and Fisheries* 22.2: 243-261. 2021.
 
 Highly relevant to current shifts in ecosystem management, Reid et al. (2021) suggests a framework, Two-Eyed Seeing, in order to understand and steward fisheries. Rather than assimilating Indigenous knowledge systems into western science, Two-Eyed Seeing embraces "learning to see from one eye with the strengths of Indigenous knowledges and ways of knowing, and from the other eye with the strengths of mainstream knowledges and ways of knowing, and to use both these eyes together, for the benefit of all” (Elder Dr. Albert Marshall; Reid et al. 2021).
-```{r echo=FALSE, fig.cap = ""A conceptual framework detailing the flow of knowledge (Indigenous knowledge (IK); Western science (WS)) that underpins researchers’ understandings or views of reality, and ultimately guides their research and management decisions, as classified under three main archetypes." (Figure 3, Reid et al. 2021)"}
+```{r echo=FALSE, fig.cap = "A conceptual framework detailing the flow of knowledge (Indigenous knowledge (IK); Western science (WS)) that underpins researchers’ understandings or views of reality, and ultimately guides their research and management decisions, as classified under three main archetypes. (Figure 3, Reid et al. 2021)"}
 
 knitr::include_graphics("images/Reid_2021.png")
 
