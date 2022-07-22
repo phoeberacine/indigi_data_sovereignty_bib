@@ -4,7 +4,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# cover-image: path to the social sharing image like images/cover.jpg
+cover-image: images/taro.png
 description: |
   This is a minimal example of using the bookdown package to write a book.
   The HTML output format for this example is bookdown::gitbook,
@@ -13,24 +13,16 @@ link-citations: yes
 #github-repo: rstudio/bookdown-demo
 ---
 
+
 # About this book {-}
 
 This is an evolving reading list geared towards understanding the ethical concerns and best practices of data collection, management, and analysis, especially as it pertains to working with Indigenous peoples and environmental science and management. Open data has been widely pushed to increase data sharing, usage, and to help develop a global data science community. While there are many benefits, data sharing can further entrench systemic issues. A reliance on external data and analysis, which do not reflect community needs, values, or priorities, threatens self-determination. Indigenous data sovereignty addresses aspects of data inequality and may place restrictions on what data can be shared and by whom. Here, you’ll find an overview of data sovereignty networks, and a collection of podcasts, seminars, tools, books and peer-reviewed papers. If you’re aware of a resource that would fit in well or have other feedback, please share!
 
 This reading list reflects the continuous development of learning materials at the Arctic Data Center and National Center for Ecological Analysis and Synthesis (NCEAS) to support researchers and practitioners to understand, adopt, and apply ethical open science practices. In bringing these materials together we recognize that many individuals have contributed to their development. The primary authors are listed in the citation below, and additional contributors are recognized for their roles in guiding the development of this document through previous iterations.
 
-**Citation**: Phoebe Racine & Natasha Haycock-Chavez. 2022. Indigenous Data Sovereignty and Open Data in Environmental Sciences.
+**Citation**: Phoebe Racine. Indigenous Data Sovereignty and Open Data in Environmental Sciences. July 2022
 
-**Additional contributors**: Nākoa Farrant, Ben Halpern, Matt Jones
-
-
-```{r echo=FALSE, out.width="49%"}
-knitr::include_graphics("images/adc_logo.png")
-```
-
-```{r echo=FALSE, out.width="49%"}
-knitr::include_graphics("images/nceas.png")
-```
+**Additional contributors**: Natasha Haycock-Chavez, Nākoa Farrant, Ben Halpern and Matt Jones
 
 
 ## Land Acknowledgement {-}
