@@ -1,3 +1,4 @@
+fig:unnamed-chunk-2
 fig:unnamed-chunk-3
 fig:unnamed-chunk-4
 fig:unnamed-chunk-5
@@ -5,7 +6,6 @@ fig:unnamed-chunk-6
 fig:unnamed-chunk-7
 fig:unnamed-chunk-8
 fig:unnamed-chunk-9
-fig:unnamed-chunk-10
 indigenous-statistics-environmental-justice-theory
 the-importance-of-data-to-indigenous-communities
 indigenous-statistics-a-quantitative-research-methodology
@@ -19,7 +19,9 @@ fair-principals
 fair-and-beyond
 ids-indigenous-data-sovereignty-frameworks-networks
 data-management-tools
-biocultural-labels
+data-labels-and-notices
+traditional-knowledge-and-biocultural-labels-and-notices
+sharing-our-gifts-an-indigenous-led-curriculum-response-at-western-university
 indigenous-digital-strategies
 examples-of-indigenous-environmental-synthesis-and-data-science
 environmental-synthesis
