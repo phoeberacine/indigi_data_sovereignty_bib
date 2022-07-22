@@ -10,9 +10,9 @@ Data labels are text elements that describe individual data points. They are use
 ### Traditional Knowledge and BioCultural Labels and Notices
 [Traditional Knowledge (TK) Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) and [Biocultural (BC) Labels](https://localcontexts.org/labels/biocultural-labels/) are a collective set of 30 of data-markers developed by [Local Contexts](https://localcontexts.org/) and partner communities. These 30 labels should be tagged by Indigenous communities. External groups, such as researchers, scientists, and museums, may apply [Notices](https://localcontexts.org/notices/aboutnotices/), specific tools which support the recognition of Indigenous interests in collections and data. The Notices can function as place-holders on collections, data, or in a sample field until a more permanent label is added by a community. There are four Notices developed by Local Contexts and their community partners: the TK Notice and the BC Notice (these align to the TK and BC Labels), the Attribution Incomplete Notice and the Open to Collaboration Notice. 
 
-*TK Labels* define "attribution, access, and use rights for Indigenous cultural heritage. Twenty TK Labels have been developed through direct community partnership and collaboration. Each TK Label can be adapted and customized to reflect ongoing relationships and authority including proper use, guidelines for action, or responsible stewardship and re-use."(Local Contexts, TK Labels)
+**TK Labels** define "attribution, access, and use rights for Indigenous cultural heritage. Twenty TK Labels have been developed through direct community partnership and collaboration. Each TK Label can be adapted and customized to reflect ongoing relationships and authority including proper use, guidelines for action, or responsible stewardship and re-use." (Local Contexts, TK Labels)
 
-*BC Labels* define "community expectations and consent about appropriate use of collections and data. They connect data to people and environments over time. Ten BC Labels provide a practical application of Indigenous data governance principles to issues of access and benefit-sharing for genetic resources." (Local Contexts, BC Labels)
+**BC Labels** define "community expectations and consent about appropriate use of collections and data. They connect data to people and environments over time. Ten BC Labels provide a practical application of Indigenous data governance principles to issues of access and benefit-sharing for genetic resources." (Local Contexts, BC Labels)
 
 
 ```{r echo=FALSE, fig.cap = "The 10 BC Labels developed by Jane Anderson and Maui Hudson, adapted by Phoebe Racine"}
@@ -21,7 +21,7 @@ knitr::include_graphics("images/bclabel_v3.png")
 ```
 If you would like to learn more about these Labels and are a researcher, consider signing up to test the new [Local Contexts Hub](https://anth-ja77-lc-dev-42d5.uc.r.appspot.com/login/).
 
-#### [Sharing Our Gifts: An Indigenous-led curriculum response at Western University](https://teaching.uwo.ca/teaching/indigenous-tl-resources.html){-}
+#### [Sharing Our Gifts: An Indigenous-led curriculum response at Western University](https://teaching.uwo.ca/teaching/indigenous-tl-resources.html) {-}
 Dr. Janette Hamilton Pearce, Felicia Garcia, Corrie Roe. June 22, 2022.
 
 This presentation by Local Contexts provides an overview of the TK and BC Labels and Notices, the Local Contexts Initiative and Local Contexts Hub.
