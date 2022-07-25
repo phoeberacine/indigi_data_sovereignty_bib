@@ -22,7 +22,7 @@ Different frameworks can inform and guide ethical data management. Frameworks at
   - [The Maiam nayri Wingara Indigneous Data Sovereignty Collective](https://www.maiamnayriwingara.org/)
 
 #### The Global Indigenous Data Alliance ([GIDA](https://www.gida-global.org/)) {-}
-Shares frameworks, tools, and processes to help guide the practice of Indigenous Data Sovereignty around the globe. Notably, GIDA created the [CARE principles](https://www.gida-global.org/care) for Indigenous Data Governance \@ref(3.3). 
+Shares frameworks, tools, and processes to help guide the practice of Indigenous Data Sovereignty around the globe. Notably, GIDA created the [CARE principles](https://www.gida-global.org/care) for Indigenous Data Governance. 
 
 ```{r echo=FALSE, fig.cap = "The CARE and FAIR Principals (GIDA 2019)."}
 
