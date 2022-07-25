@@ -15,7 +15,7 @@ data-sovereignty
 data-governance
 the-care-principles-for-indigenous-data-governance
 ocap-principals
-fair-principals
+fair-principles
 fair-and-beyond
 ids-indigenous-data-sovereignty-frameworks-networks
 data-management-tools

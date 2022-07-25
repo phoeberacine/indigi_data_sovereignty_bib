@@ -3,7 +3,7 @@ output: html_document
 ---
 
 # Data Sovereignty and Governance
-Data collection, analysis and sharing is couched in historic inequities, some of which Open Data can exacerbate. Data Sovereignty empowers Indigenous communities to choose which types of data on their people are shared and with whom, shifting the historical imbalance in who controls data access. Here, we share background resources and principals on data sovereignty, governance, and open data science.
+Data collection, analysis and sharing is couched in historic inequities, some of which Open Data can exacerbate. Data Sovereignty empowers Indigenous communities to choose which types of data on their people are shared and with whom, shifting the historical imbalance in who controls data access. Here, we share background resources and principles on data sovereignty, governance, and open data science.
 
 **Data sovereignty**: The right of a community and/or nation to maintain that data  is managed in a way that is consistent with the laws, practices and customs of that community ([Snipp 2016](https://static1.squarespace.com/static/5d2633cb0ef5e4000134fa02/t/5d7a7610da91c0143184a9d1/1568306712324/Indigenous%2BData%2BSovereignty%2BBook.pdf), pg. 39). 
 
@@ -98,10 +98,10 @@ An online training course to introduce individuals to the fundamental concepts o
 #### “[First Nations data sovereignty](https://open.spotify.com/episode/7lpJvcWPEX0DJcMjQPTdiK?si=r3AfZ-SbQeu3KrMtPbK6cQ)" {-}
 *Info Matters*. August 2021.  
 
-Info Matters is a podcast by the Information and Privacy Commissioner of Ontario, Canada, Patricia Kosseim. In this episode, Kosseim interviews Dr. Jonathan Dewer, Chief Executive Officer of the First Nations Information Governance Center, and Carmen Jones, Director of Research and Data Management for the Chief of Ontario. Dewar and Jones provide unique insight into data sovereignty broadly and specifically the creation and implementation of OCAP Principals (14:15).
+Info Matters is a podcast by the Information and Privacy Commissioner of Ontario, Canada, Patricia Kosseim. In this episode, Kosseim interviews Dr. Jonathan Dewer, Chief Executive Officer of the First Nations Information Governance Center, and Carmen Jones, Director of Research and Data Management for the Chief of Ontario. Dewar and Jones provide unique insight into data sovereignty broadly and specifically the creation and implementation of OCAP Principles (14:15).
 
-## FAIR Principals
-The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. The FAIR  principles, paired with CARE principals, can work together to ensure data is ethically sourced and shared.
+## FAIR Principles
+The Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles were developed to improve the reuse of scholarly data. The FAIR  principles, paired with CARE principles, can work together to ensure data is ethically sourced and shared.
 
 #### "[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)" {-}
 Mark D. Wilkinson, et al. *Scientific Data* 3.1: 1-9. 2016. 
@@ -116,7 +116,7 @@ Martin Boeckhout, Gerhard A. Zielhuis, and Annelien L. Bredenoord. *European Jou
 #### D7.4 [How to be FAIR with your data](https://zenodo.org/record/5837500#.Yhk8L5PMJ6e ) {-} 
 *A teaching and training handbook for higher education institutions*. November 2021. 
 
-The handbook was written and edited by a group of about 40 collaborators as part of a working group and was subject to community review. The 179-page book is a wealth of information and practical materials relating to the FAIR principals. Practical materials include competence profiles, learning outcomes and lesson plans, and supporting information.
+The handbook was written and edited by a group of about 40 collaborators as part of a working group and was subject to community review. The 179-page book is a wealth of information and practical materials relating to the FAIR principles. Practical materials include competence profiles, learning outcomes and lesson plans, and supporting information.
 
 
 ### FAIR and Beyond
