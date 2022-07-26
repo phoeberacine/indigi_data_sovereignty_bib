@@ -15,7 +15,7 @@ Data labels are text elements that describe individual data points. They are use
 **BC Labels** define "community expectations and consent about appropriate use of collections and data. They connect data to people and environments over time. Ten BC Labels provide a practical application of Indigenous data governance principles to issues of access and benefit-sharing for genetic resources." (Local Contexts, BC Labels)
 
 
-```{r echo=FALSE, fig.cap = "The 10 BC Labels developed by Jane Anderson and Maui Hudson, adapted by Phoebe Racine"}
+```{r echo=FALSE, out.width="100%", fig.cap = "The 10 BC Labels developed by Jane Anderson and Maui Hudson, adapted by Phoebe Racine"}
 knitr::include_graphics("images/bclabel_v3.png")
 
 ```

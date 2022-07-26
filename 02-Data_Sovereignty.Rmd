@@ -46,7 +46,7 @@ Stephanie Russo Carroll, Desi Rodriguez-Lonebear, and Andrew Martinez. *Data Sci
 
 This review paper argues for the repositioning of authority over Indigenous data back to Indigenous peoples through context setting and case studies. For those wanting an overview to these concepts, Carroll, Rodriguez-Lonebear and Martinez provide a robust introduction to key terms related to data sovereignty and data governance.
 
-```{r echo = FALSE, , fig.cap = "Building Indigenous data sovereignty through Indigenous data governance (Figure 1, Carroll, Rodriguez-Lonebear, and Martinez 2019)"}
+```{r echo = FALSE, out.width="100%", fig.cap = "Building Indigenous data sovereignty through Indigenous data governance (Figure 1, Carroll, Rodriguez-Lonebear, and Martinez 2019)"}
 knitr::include_graphics("images/download.png")
 
 
@@ -70,7 +70,7 @@ Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Ho
 
 The ‘CARE Principles for Indigenous Data Governance’ (Collective Benefit, Authority to Control, Responsibility, and Ethics) were developed due to concerns about secondary use of data and limited opportunities for benefit-sharing between Indigenous communities and outside researchers. While the FAIR Principles are data-centric, the CARE Principles are people and purpose oriented. The authors write, "the goal is that stewards and other users of Indigenous data will ‘Be FAIR and CARE.’" CARE principles are intended to be used in concert with FAIR Principals. Of note, this paper provides important background on Indigenous data sovereignty.
 
-```{r echo=FALSE, fig.cap = "Indigenous and mainstream data principles, and the orientation of these principles towards data, people and purpose (Fig 1, Carroll et al. 2020)."}
+```{r echo=FALSE, out.width="100%", fig.cap = "Indigenous and mainstream data principles, and the orientation of these principles towards data, people and purpose (Fig 1, Carroll et al. 2020)."}
 
 knitr::include_graphics("images/care.png")
 
@@ -81,7 +81,6 @@ knitr::include_graphics("images/care.png")
 Stephanie Russo Carroll, et al. *Scientific Data* 8, no. 1. 2021.
 
 CARE Principles place emphasis on placing intention and human well-being at the forefront of data publishing and sharing. While FAIR principles are often used in the context of open science, they differ from open science, and represent guidelines for publishing data that can be easily interpreted, stand the test of time, and reused if applicable. Together, CARE and FAIR principles speak to clean, well-managed data that puts human well-being first.
-
 
 #### "[Using Indigenous Standards to Implement the CARE Principles: Setting Expectations through Tribal Research Codes](https://www.frontiersin.org/articles/10.3389/fgene.2022.823309/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=823309)" {-} 
 Stephanie Russo Carroll, et al. *Frontiers in Genetics* 489. 2022.

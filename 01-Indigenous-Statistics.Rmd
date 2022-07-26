@@ -28,9 +28,9 @@ Indigenous Peoples have historically been excluded in research of Indigenous com
 #### [Census Powwow](https://open.spotify.com/episode/28040mhUkpvUtas8bd6rmE?si=e0j9BvQ5R9m3e0AGbZajSw) {-}
 Julian Noisecat. *Snap Judgment*. June, 2021. 
 
-Journalist Julian Noisecat follows Cheyanne Brady, a member of the Mandan Hidatsa Arikara Nation, as she works to count everyone on her reservation for the US 2020 Census. This podcast details the complicated relationship tribal nations have with the US Census. Through storytelling, the listener can get a sense of the important role data has in shaping indigenous outcomes.
+Journalist Julian Brave Noisecat follows Cheyanne Brady, a member of the Mandan Hidatsa Arikara Nation, as she works to count everyone on her reservation for the US 2020 Census. This podcast details the complicated relationship tribal nations have with the US Census. Through storytelling, the listener can get a sense of the important role data has in shaping indigenous outcomes.
 
-```{r echo=FALSE, fig.cap = "Census Powwow, Snap Judgement"}
+```{r echo=FALSE, out.width="100%", fig.cap = "Census Powwow, Snap Judgement"}
 knitr::include_graphics("images/CensusPowwow.png")
 
 ```
