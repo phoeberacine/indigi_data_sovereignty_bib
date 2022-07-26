@@ -5,7 +5,7 @@ This is an evolving reading list geared towards understanding the ethical concer
 
 This reading list reflects the continuous development of learning materials at the Arctic Data Center and National Center for Ecological Analysis and Synthesis (NCEAS) to support researchers and practitioners to understand, adopt, and apply ethical open science practices. In bringing these materials together we recognize that many individuals have contributed to their development. The primary author is listed in the citation below, and additional contributors are recognized for their roles in guiding the development of this document through previous iterations.
 
-**Citation**: Phoebe Racine. Indigenous Data Sovereignty and Open Data in Environmental Sciences. July 2022. DOI:10.5281/zenodo.6908484
+**Citation**: Phoebe Racine. Indigenous Data Sovereignty and Open Data in Environmental Sciences. July 2022. [DOI:10.5281/zenodo.6908484](https://doi.org/10.5281/zenodo.6908484)
 
 **Additional contributors**: Natasha Haycock-Chavez, Nākoa Farrant, Ben Halpern and Matt Jones
 
