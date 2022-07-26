@@ -29,9 +29,9 @@ This reading list reflects the continuous development of learning materials at t
 
 **Citation**: Phoebe Racine. Indigenous Data Sovereignty and Open Data in Environmental Sciences. July 2022. DOI:10.5281/zenodo.6908484
 
-
 **Additional contributors**: Natasha Haycock-Chavez, Nākoa Farrant, Ben Halpern and Matt Jones
 
+**Github repo**: https://github.com/phoeberacine/indigi_data_sovereignty_bib
 
 ## Land Acknowledgement {-}
 This book was created on unceded Chumash ancestral lands in gratitude and solidarity with all our relations. We are committed to learning about how to implement Indigenous Data Sovereignty within our own institutions and in the trainings that Arctic Data Centers offers the Arctic research community.
