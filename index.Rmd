@@ -14,9 +14,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 cover-image: images/taro.png
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  This is an evolving reading list geared towards understanding the ethical concerns and best practices of data collection, management, and analysis, especially as it pertains to working with Indigenous peoples and environmental science and management.
 link-citations: yes
 #github-repo: rstudio/bookdown-demo
 ---
