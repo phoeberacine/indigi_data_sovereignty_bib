@@ -2,7 +2,7 @@
 output: html_document
 ---
 
-# Examples of Indigenous Environmental Synthesis and Data Science
+# Indigenous Environmental Synthesis and Data Science
 
 ## Environmental Synthesis
 #### "[A spatial overview of the global importance of Indigenous lands for conservation](https://www.nature.com/articles/s41893-018-0100-6?ss_source=sscampaigns&ss_campaign_id=5c424fe9d20e280001eb02bf&ss_email_id=5c5cf4c39bca21000175c9fd&ss_campaign_name=Introducing+the+Interfaith+Rainforest+Initiative&ss_campaign_sent_date=2019-02-08T03:17:24Z)" {-}
@@ -54,6 +54,8 @@ Lara A. Jacobs, et al. *Parks Stewardship Forum*. Vol. 38. No. 2. 2022.
 #### [Indigenous Aquaculture Collaborative](https://indigenousaquaculture.org/) {-}
 "We are a collaborative network of Pacific-region Sea Grant offices; Northwest Tribes and First Nations, Native Hawaiian and Indigenous communities; and organizations and universities working as a community of practice to advance Indigenous Aquaculture. We integrate community engagement, restoration, applied research, and education to share experiences, knowledge, and strategies that enhance local and cultural seafood production in the broader Pacific region. The focal knowledge, practices, and relationships of our network are part of deep heritages that are rooted in local bays, inlets, watersheds, and islands. While these cultural ecosystems have been here for a very long time, our collaborative cross-Pacific network started in 2019, building upon our existing relationships. As a network, we share the living traditions from our unique places to develop strong cross-cultural learning and support collective efforts." (Indigenous Aquaculture Collaborative, "About Us")
 
+#### [Watershed Future Initiative](https://www.watershedfuturesinitiative.com/) {-}
+The Watershed Futures Initiative is based out of Simon Fraser University in Canada. They are a collaborative initiative that both practices and coordinates research on cumulative effects in salmon-bearing watersheds of British Columbia. In 2022 they organized a webinar series to address issues of data ownership titled: "Taking care of knowledge, taking care of salmon: Indigenous data sovereignty".
 
 *If you are aware of other examples of Indigenous resource management, please share!*
 

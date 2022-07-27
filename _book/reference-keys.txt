@@ -21,7 +21,7 @@ data-management-tools
 data-labels-and-notices
 traditional-knowledge-and-biocultural-labels-and-notices
 indigenous-digital-strategies
-examples-of-indigenous-environmental-synthesis-and-data-science
+indigenous-environmental-synthesis-and-data-science
 environmental-synthesis
 indigenous-environmental-data
 traditional-ecological-knowledge-tek-applications-to-management
