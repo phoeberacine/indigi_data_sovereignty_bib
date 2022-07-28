@@ -22,7 +22,7 @@ In this review of the book *Indigenous Statistics*, Elaine Coburn makes several 
 #### [Indigenous data, indigenous methodologies and indigenous data sovereignty](https://www.tandfonline.com/doi/full/10.1080/13645579.2018.1531228) {-}
 Maggie Walter and Michele Suina. *International Journal of Social Research Methodology* 22.3: 233-243. 2019.
 
-Indigenous Peoples have historically been excluded in research of Indigenous communities, both in the design of studies and in the data collection process. Indigenous data have also primarily analyzed qualitatively. This paper suggests that the absence of quantitative methods that align with Indigenous methodologies has impacted statistical narratives about Indigenous Peoples. This paper explores the consequences of this absence, and describes Indigenous quantitative methods from a case study in New Mexico. 
+Indigenous Peoples have historically been excluded in research of Indigenous communities, both in the design of studies and in the data collection process. Indigenous data have also primarily been analyzed qualitatively. This paper suggests that the absence of quantitative methods that align with Indigenous methodologies has impacted statistical narratives about Indigenous Peoples. This paper explores the consequences of this absence, and describes Indigenous quantitative methods from a case study in New Mexico. 
 
 
 #### [Census Powwow](https://open.spotify.com/episode/28040mhUkpvUtas8bd6rmE?si=e0j9BvQ5R9m3e0AGbZajSw) {-}
